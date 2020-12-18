@@ -3,9 +3,10 @@ package demo;
 public class Example {
 
 	public static void main(String[] args) {
-		// test  code for merge
-     System.out.println("This is a tester branch");
-		// TODO Auto-generated method stub)
+		// TODO Auto-generated method stub
+     // System.out.println("This is a sample project");
+		// code for merge test
+     System.out.println("This is a sample project");
 	}
 
 }
