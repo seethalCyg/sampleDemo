@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>demo</name>
+=======
+<<<<<<< HEAD
+	<name>SampleDemo</name>
+=======
+	<name>sampleDemo</name>
+>>>>>>> branch 'master' of https://github.com/seethalCyg/sampleDemo.git
+>>>>>>> refs/heads/master
 	<comment></comment>
 	<projects>
 	</projects>
